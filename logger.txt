@@ -1,0 +1,5 @@
+Address : ::1; Time: 06.10.2024, 21:00:04; URL : /categories
+Address : ::1; Time: 06.10.2024, 21:00:12; URL : /categories/1
+Address : ::1; Time: 06.10.2024, 21:00:17; URL : /categories/3
+Address : ::1; Time: 06.10.2024, 21:00:26; URL : /products
+Address : ::1; Time: 06.10.2024, 21:00:41; URL : /products/Nokia
